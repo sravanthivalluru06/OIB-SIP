@@ -21,7 +21,7 @@ ________________________________________
     Practiced handling missing values, duplicates, outliers, and formatting errors, Ensured data integrity for reliable analysisand Highlighted the importance of standardized, clean datasets.
 ________________________________________
 
-🔹 Level 2 Projects
+🔹 Level 2 Projects -
 
 1.	House Price Prediction (Linear Regression)
    
