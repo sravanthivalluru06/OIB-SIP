@@ -49,7 +49,7 @@ ________________________________________
 
 •	Libraries: Pandas, NumPy (Data Handling), Matplotlib, Seaborn (Visualization), Scikit-learn (Analytics & Modeling), NLTK / TextBlob (NLP)
 
-•	Platforms: Jupyter Notebook / Google Colab
+•	Platforms: Google Colab
 
 •	Datasets: datasets from Kaggle
 ________________________________________
