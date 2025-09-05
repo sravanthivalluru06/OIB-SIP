@@ -1,4 +1,4 @@
-                                                      Oasis-Infobyte-Data-Analyst-Internship
+                                                  Oasis-Infobyte-Data-Analyst-Internship
 
 This repository contains the projects I completed as part of my Data Analyst Internship with Oasis Infobyte. The internship was designed in two levels, starting with fundamental data analysis and cleaning tasks (Level 1) and progressing to advanced analytics and reporting (Level 2).
 ________________________________________
